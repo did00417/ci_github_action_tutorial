@@ -13,7 +13,7 @@ def test_ci_is_working():
     """
     assert 1 + 1 == 2
 
-def test_ci_should_fail():
-    assert 1 + 1 == 3
+# def test_ci_should_fail():
+#     assert 1 + 1 == 3
 
-# 테스트 용 주석
+# 테스트 용 주석 오류 컴플리트
